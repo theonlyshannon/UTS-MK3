@@ -5,7 +5,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-shopping-basket"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">TOKO ONLINE <sup>2</sup></div>
+        <div class="sidebar-brand-text mx-3">NGpark2</div>
     </a>
 
     <!-- Divider -->
@@ -18,6 +18,8 @@
             <span>Dashboard</span></a>
     </li>
 
+    <hr class="sidebar-divider my-0">
+
     <!-- Divider -->
     <hr class="sidebar-divider">
     <li class="nav-item active">
@@ -26,33 +28,25 @@
             <span>Pelanggan</span></a>
     </li>
 
-    <!-- Divider -->
-          <hr class="sidebar-divider my-0">
-
-    <!-- Nav Item - Dashboard-->
-    <li class="nav-item active">
-        <a href="nav-link" href="/barang">
-            <i class="fas fa-fw fa-gift"></i>
-            <span>Barang</span></a>
-    </li>
-     
     <!-- Divider-->
     <hr class="sidebar-divider my-0">
 
     <!-- Nav Item - Dashboard - -->
-       <li class="nav-item active">
+    <li class="nav-item active">
         <a class="nav-link" href="/kategori">
             <i class="fas fa-fw fa-th-list"></i>
             <span>Kategori</span></a>
-       </li>
+    </li>
+
+
 
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
 
     <!-- Nav Item - Dashboard - -->
     <li class="nav-item active">
-      <a class="nav-link" href="/transaksi">
-         <i class="fas fa-fw fa-credit-card"></i>
-         <span>Transaksi</span></a>
- </li>
+        <a class="nav-link" href="/transaksi">
+            <i class="fas fa-fw fa-credit-card"></i>
+            <span>Transaksi</span></a>
+    </li>
 </ul>
