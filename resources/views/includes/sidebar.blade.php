@@ -33,9 +33,19 @@
 
     <!-- Nav Item - Dashboard - -->
     <li class="nav-item active">
-        <a class="nav-link" href="/kategori">
+        <a class="nav-link" href="/kendaraan">
             <i class="fas fa-fw fa-th-list"></i>
             <span>Kategori</span></a>
+    </li>
+
+    <!-- Divider-->
+    <hr class="sidebar-divider my-0">
+
+    <!-- Nav Item - Dashboard - -->
+    <li class="nav-item active">
+        <a class="nav-link" href="/kendaraan">
+            <i class="fas fa-fw fa-th-list"></i>
+            <span>Kendaraan</span></a>
     </li>
 
 

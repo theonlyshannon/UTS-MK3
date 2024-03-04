@@ -6,6 +6,7 @@
     <div class="p-3">
 
     </div>
+    <p>ini tabel pelanggan</p>
 @endsection
 
 
