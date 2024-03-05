@@ -14,7 +14,7 @@ class VehicleController extends Controller
     {
         $product = Product::orderBy('created_at', 'DESC')->get();
 
-        return view('products.index', compact('product'));
+        return view('pages.kendaraan', compact('product'));
     }
 
     /**

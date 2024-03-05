@@ -1,8 +1,3 @@
-@extends('layouts.admin')
-
-@section('title', 'Vehicle')
-
-@section('contents')
     <div class="d-flex align-items-center justify-content-between">
         <h1 class="mb-0">List Vehicle</h1>
         <a href="{{ route('products.create') }}" class="btn btn-primary">Add Vehicle</a>
@@ -56,4 +51,3 @@
             @endif
         </tbody>
     </table>
-@endsection

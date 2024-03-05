@@ -25,17 +25,7 @@
     <li class="nav-item active">
         <a class="nav-link" href="/pelanggan">
             <i class="fas fa-fw fa-users"></i>
-            <span>Pelanggan</span></a>
-    </li>
-
-    <!-- Divider-->
-    <hr class="sidebar-divider my-0">
-
-    <!-- Nav Item - Dashboard - -->
-    <li class="nav-item active">
-        <a class="nav-link" href="/kendaraan">
-            <i class="fas fa-fw fa-th-list"></i>
-            <span>Kategori</span></a>
+            <span>karyawan</span></a>
     </li>
 
     <!-- Divider-->
